@@ -1,6 +1,8 @@
 # Themby
 第三方emby播放器
 
+代码: [Themby](https://github.com/chicring/Themby)
+
 ## 项目介绍
 一个flutter编写的emby客户端，目前只支持安卓，使用mpv播放器，支持搜索，收藏，播放历史等功能。
 
